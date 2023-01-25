@@ -2,6 +2,10 @@
 00:11:38 Installing Node & VSCode
 00:12:21 Assets
 00:12:56 Creating our React App using npx create-react-app
+npx create-react-app my-app
+cd my-app
+npm start
+
 00:14:22 Managing and Creating files & folders
 00:20:15 Creating all Components
 00:27:40 CSS Variables & General CSS Styles
