@@ -32,3 +32,14 @@ Add the @tailwind directives for each of Tailwind’s layers to your ./src/index
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+
+Start your build process
+
+npm run start
+
+
+
+
+
+
