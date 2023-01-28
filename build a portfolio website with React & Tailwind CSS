@@ -2,3 +2,10 @@ Create your project
 
 npx create-react-app my-project
 cd my-project
+
+
+Install Tailwind CSS
+
+npm install -D tailwindcss
+npx tailwindcss init
+
