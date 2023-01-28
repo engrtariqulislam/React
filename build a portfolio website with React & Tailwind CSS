@@ -1,0 +1,4 @@
+Create your project
+
+npx create-react-app my-project
+cd my-project
